@@ -4,17 +4,17 @@
 **Common Vulnerabilities and Exposures** : Firewall Vulnerabilities CVE-2018-13379, CVE-2018-13374, gather foothold using Cobalt strike 
 
 **IOCs (Indicators of compromise)**
-BazarLoader
+**BazarLoader**--
 64.227.69.92|443 
 161.35.155.92|443 
 161.35.147.110|443 
 64.227.65.60|443
 
-Loader download
+**Loader download**--
 millscruelg.com
 45.95.11.133|80
 
-Cobalt Strike
+**Cobalt Strike**--
 volga.azureedge.net
 five.azureedge.net
 checkauj.com
